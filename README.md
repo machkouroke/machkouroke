@@ -29,8 +29,7 @@ src="https://img.shields.io/twitter/follow/machkouroke?logo=twitter&style=for-th
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://julialang.org/" target="_blank" rel="noreferrer"><img src="![image](https://user-images.githubusercontent.com/40785379/176584060-fce8f7e0-090c-4965-8d77-84d30d607e73.png)
-" width="36" height="36" alt="Django" /></a>
+<a href="https://julialang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/julia-2752146-2284963.png" width="36" height="36" alt="Django" /></a>
 </p>
 
 
