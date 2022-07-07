@@ -35,7 +35,7 @@ src="https://img.shields.io/twitter/follow/machkouroke?logo=twitter&style=for-th
 ### Github Statistics
 
 
-[![Chameleon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chameleon-Coder&bg_color=000000&color=ffffff&line=ffffff&point=ada4a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Machkour's github activity graph](https://activity-graph.herokuapp.com/graph?username=machkouroke-Coder&bg_color=000000&color=ffffff&line=ffffff&point=ada4a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Socials
 
