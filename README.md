@@ -32,6 +32,10 @@ src="https://img.shields.io/twitter/follow/machkouroke?logo=twitter&style=for-th
 <a href="https://julialang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/julia-2752146-2284963.png" width="36" height="36" alt="Django" /></a>
 </p>
 
+### Github Statistics
+
+
+[![Chameleon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chameleon-Coder&bg_color=000000&color=ffffff&line=ffffff&point=ada4a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Socials
 
