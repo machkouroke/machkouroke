@@ -1,7 +1,7 @@
 ```python
 Name = "Machkour Oke"
 Profession = "Data Engineer Student"
-Languages = ["Python", "Julia","Java", "C++" "HTML", "CSS", "PHP", "SQL", "JavaScript"]
+Hobbies = ["IT", "Manga","Astronomy", "Reading" "Soccer"]
 ```
 
 Passionate about new technologies, I am constantly discovering and looking for new challenges. I have an absolute taste for details and things well done
@@ -14,7 +14,7 @@ Passionate about new technologies, I am constantly discovering and looking for n
 src="https://img.shields.io/twitter/follow/machkouroke?logo=twitter&style=for-the-badge&color=0891b2&labelColor=134e4a"
 /></a>
 
-## <p align="center">I program in:</p>
+## <p align="center">Skills:</p>
 
 <p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
