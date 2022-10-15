@@ -1,6 +1,6 @@
 ```python
 Name = "Machkour Oke"
-Profession = "Data Engineer Student"
+Profession = "Data Engineer Student & Backend Web Developer"
 Hobbies = ["IT", "Manga","Astronomy", "Reading" "Soccer"]
 ```
 
