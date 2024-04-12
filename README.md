@@ -6,8 +6,8 @@ Hobbies = ["IT", "Manga","Astronomy", "Reading" "Soccer"]
 
 Passionate about new technologies, I am constantly discovering and looking for new challenges. I have an absolute taste for details and things well done
 
-* 🌍  I'm based in Morocco
-* ✉️  You can contact me at [machkour20.mo1@gmail.com](mailto:machkour20.mo1@gmail.com)
+* 🌍  I'm based in France
+* ✉️  You can contact me at [machkouroke@gmail.com](mailto:machkouroke@gmail.com)
 * **Portfolio**: https://lopuniverse.me/
 
 <a href="https://www.twitter.com/machkouroke" target="_blank" rel="noreferrer"><img
