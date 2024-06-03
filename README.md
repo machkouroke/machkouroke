@@ -8,7 +8,7 @@ Passionate about new technologies, I am constantly discovering and looking for n
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [machkouroke@gmail.com](mailto:machkouroke@gmail.com)
-* **Portfolio**: https://lopuniverse.me/
+* **Portfolio**: https://machkouroke.com
 
 <a href="https://www.twitter.com/machkouroke" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/machkouroke?logo=twitter&style=for-the-badge&color=0891b2&labelColor=134e4a"
